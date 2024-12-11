@@ -9,6 +9,10 @@ Now, we have 50dB 3d printer（施工ing）
 3.喉管冷却风扇的调教
 
 4.封箱上盖
+
+5.ab电机的主动降噪
+
+6.前门合页（基于https://www.printables.com/model/876928-creality-k1k1ck1-max-door-hinges-geared-remix的修改），放置在stl/k1se_door_hinges下
 ```
 printer.cfg参数
 [heater_fan hotend_fan]
@@ -27,13 +31,15 @@ kick_start_time: 0.5
 接下来。。。。。
 
 
-1.封箱（差前门）
+1.封箱
 ---
 两侧侧板的测绘图纸我存放在了doc目录下，封箱上盖改编自[Cover Lift](https://www.printables.com/model/989984-creality-k1c-minimalistic-cover-lift/files)，
 我提供了完整的st
 l图纸，也提供了被切割可以被k1SE打印的stl文件，stl文件存放在stl目录下。
 
 大致的情况：
+
+<img src="doc/p5.jpg" alt="alt 属性文本" style="width: 50%; height: auto;">
 
 <img src="doc/p3.jpg" alt="alt 属性文本" style="width: 50%; height: auto;">
 
